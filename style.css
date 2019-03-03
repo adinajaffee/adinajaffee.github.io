@@ -1,0 +1,38 @@
+p {
+  color: black;
+}
+table, h1 {
+  color: blue
+}
+body {
+  background-color: rgb(117, 142, 205);
+  font-family: 'Permanent Marker', cursive;
+}
+table {
+  font-size: 40px;
+}
+.ordered-list {
+  color:green;
+  font-size:25px
+}
+.quote {
+  color: red;
+  font-size:40px
+  font-family:cursive;
+}
+.heading3 {
+  color: purple;
+  font-size:40px;
+  font-family: cursive;
+}
+.unordered-list {
+  color: yellow;
+  font-style:italic;
+  font-size:25px;
+}
+
+p {
+  padding: 15px;
+  border: 6px solid green;  
+  margin: 60px;
+}

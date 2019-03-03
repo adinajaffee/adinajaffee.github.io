@@ -1,0 +1,21 @@
+.row {
+  width: 100%
+}
+
+.column {
+  float: left;
+}
+
+.column-20 {
+  font-size: 20px;
+  width: 20%
+}
+
+.column-50 {
+  width: 50%
+}
+
+.column-80 {
+  background-color:blue;
+  width: 80%
+}
